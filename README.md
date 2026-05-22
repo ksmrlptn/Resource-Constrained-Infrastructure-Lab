@@ -14,8 +14,6 @@ Current implementation priorities are focused on foundational IT Support compete
 
 The project will gradually expand toward broader systems administration and systems security administration practices over time.
 
----
-
 ## Project Goals
 
 The primary goals of the project are to:
@@ -27,8 +25,6 @@ The primary goals of the project are to:
 - improve networking and remote administration capability
 - maintain structured technical documentation and operational records
 
----
-
 ## Current Infrastructure
 
 The current environment consists of:
@@ -39,8 +35,6 @@ The current environment consists of:
 - External SSD enclosure (storage workaround layer)
 - Tailscale mesh network (remote access layer)
 
----
-
 ## Current Implementations
 
 Completed implementations include:
@@ -49,8 +43,6 @@ Completed implementations include:
 - Stable internet connectivity through smartphone USB tethering
 - Remote administration between systems using Tailscale
 - External storage deployment due to unreliable internal SSD detection
-
----
 
 ## Key Challenges Encountered
 
@@ -62,8 +54,6 @@ The environment currently operates under several hardware limitations:
 - dependency on external devices for stable operation
 
 These issues are intentionally documented and addressed as part of the operational learning process.
-
----
 
 ## Repository Purpose
 
