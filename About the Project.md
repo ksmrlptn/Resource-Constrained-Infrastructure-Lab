@@ -4,7 +4,7 @@ The Resource-Constrained Infrastructure Lab (RCIL) is a personal hands-on infras
 
 The project is designed around real-world constraints such as aging devices, unreliable hardware behavior, limited networking capability, and lack of enterprise resources. Instead of avoiding these limitations, the environment uses them as part of the learning and operational process.
 
-Current implementation priorities are focused on foundational IT Support competencies including:
+Current implementation priorities are focused on foundational Systems Support competencies including:
 - troubleshooting
 - system deployment
 - remote access configuration
@@ -12,7 +12,7 @@ Current implementation priorities are focused on foundational IT Support compete
 - operational recovery
 - infrastructure documentation
 
-The project will gradually expand toward broader systems administration and systems security administration practices over time.
+The project will gradually expand toward broader Systems Administration and Security practices over time.
 
 
 
@@ -20,7 +20,7 @@ The project will gradually expand toward broader systems administration and syst
 
 The primary goals of the project are to:
 
-- develop practical IT Support skills through hands-on work
+- develop practical Systems Support, Systems Administration, Networking, and Troubleshooting skills through hands-on work
 - build operational troubleshooting discipline
 - understand infrastructure behavior under constrained conditions
 - practice system deployment and recovery procedures
@@ -48,7 +48,6 @@ Completed implementations include:
 - Arch Linux minimal installation on the infrastructure node
 - Stable internet connectivity through smartphone USB tethering
 - Remote administration between systems using Tailscale
-- External storage deployment due to unreliable internal SSD detection
 
 
 
@@ -58,7 +57,6 @@ The environment currently operates under several hardware limitations:
 
 - unreliable internal SSD detection
 - failed built-in wireless functionality
-- dynamic DHCP behavior affecting direct SSH accessibility
 - dependency on external devices for stable operation
 
 These issues are intentionally documented and addressed as part of the operational learning process.
@@ -75,4 +73,4 @@ This repository serves as a structured record of:
 - incident handling
 - system improvements over time
 
-The goal is to demonstrate practical operational capability and technical problem-solving relevant to entry-level IT Support and Systems Administration roles.
+The goal is to demonstrate practical operational capability and technical problem-solving relevant to entry-level Systems Support and Systems Administration roles.
