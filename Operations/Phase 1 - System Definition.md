@@ -1,7 +1,7 @@
 # 1. Project Overview
 
 ## Objective
-The Resource-Constrained Infrastructure Lab (RCIL) is a personal infrastructure project created to develop practical IT Support, Systems Administration, and infrastructure troubleshooting skills using limited and repurposed hardware.
+The Resource-Constrained Infrastructure Lab (RCIL) is a personal infrastructure project created to apply practical Systems Support, Systems Administration, Networking and Troubleshooting skills gained through academic coursework using limited and repurposed hardware.
 
 The environment is designed to provide hands-on experience with real-world infrastructure and operational challenges under constrained conditions, including aging hardware, unstable components, limited storage flexibility, and budget limitations.
 
@@ -130,10 +130,6 @@ System functionality is maintained through external workaround solutions due to 
 - Single-node primary compute environment
 - External device-based internet bridging
 - Mesh overlay network for remote access stability
-
-## IP Planning
-- DHCP-based local network allocation
-- Tailscale overlay removes dependency on static IP addressing
 
 ## Access Methods
 - SSH via Tailscale
